@@ -1,5 +1,5 @@
 {
-  "name": "Timi/face_ai",
+  "name": "timi/face",
   "type": "library",
   "description": "face for tengxun/youtu php sdk",
   "keywords": [
