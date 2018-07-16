@@ -1,0 +1,27 @@
+{
+  "name": "face_ai",
+  "type": "library",
+  "description": "face for tengxun/youtu php sdk",
+  "keywords": [
+    "face",
+    "youtu",
+    "tencent",
+    "ai"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "songchuanwei",
+      "email": "1936498903@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Youtu\\Phpsdk\\": "src/Youtu/Phpsdk"
+    }
+  }
+}
